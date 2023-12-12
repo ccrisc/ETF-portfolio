@@ -1,8 +1,3 @@
-
-<!--
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <div align="center">
   <h3 align="center">ETFs portfolio simulator</h3>
 
@@ -11,14 +6,6 @@
   </p>
 </div>
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
