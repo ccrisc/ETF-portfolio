@@ -9,6 +9,8 @@
 ## About The Project
 This is a shinyapp 
 
+Data is updated till March 2020
+
 ### Built With 
 * ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 * ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
@@ -19,12 +21,10 @@ This is a shinyapp
 ## Usage
 
 Click on "Get Started!" button to go to portfolio creation page.
-[![Product Name Screen Shot][product-screenshot]](www/home.png)
+![home](https://github.com/ccrisc/ETF-portfolio/blob/main/www/home.png)
 
 In order to create the ETF Portfolio do so select from the first box every asset sector you want to invest in.
 Then, if you want, select from the second box a field you are interested in.
-
-Data is updated till March 2020
 
 
 ## Contributing
