@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">ETFs portfolio simulator</h3>
+  <h1 align="center">ETFs portfolio simulator</h1>
 
   <p align="center">
     <a href="https://deskso.shinyapps.io/Portfolio/">View Demo</a>
@@ -7,10 +7,7 @@
 </div>
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
+This is a shinyapp 
 
 ### Built With 
 * ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -22,7 +19,7 @@
 ## Usage
 
 Click on "Get Started!" button to go to portfolio creation page.
-[![Product Name Screen Shot][product-screenshot]](home.png)
+[![Product Name Screen Shot][product-screenshot]](www/home.png)
 
 In order to create the ETF Portfolio do so select from the first box every asset sector you want to invest in.
 Then, if you want, select from the second box a field you are interested in.
