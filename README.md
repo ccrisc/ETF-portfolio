@@ -19,12 +19,15 @@
 * ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Click on "Get Started!" button to go to portfolio creation page.
+[![Product Name Screen Shot][product-screenshot]](home.png)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+In order to create the ETF Portfolio do so select from the first box every asset sector you want to invest in.
+Then, if you want, select from the second box a field you are interested in.
+
+Data is updated till March 2020
 
 
 ## Contributing
@@ -38,9 +41,4 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
