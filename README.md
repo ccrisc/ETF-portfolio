@@ -30,7 +30,6 @@ Click on "Get Started!" button to go to portfolio creation page.
 
 In order to create the ETF Portfolio do so select from the first box every asset sector you want to invest in.
 Then, if you want, select from the second box a field you are interested in.
-![filters](https://github.com/ccrisc/ETF-portfolio/blob/main/www/filters.png)
 
 Once the loading is complete you will have an overview of the optimal ETF portfolio to invest in.
 
