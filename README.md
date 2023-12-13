@@ -1,7 +1,7 @@
 This repo is no longer updated since March 2020
 
 <div align="center">
-  <h1 align="center">ETFs portfolio simulator</h1>
+  <h1 align="center">ETFs portfolio simulation</h1>
 
   <p align="center">
     <a href="https://deskso.shinyapps.io/Portfolio/">View Demo</a>
