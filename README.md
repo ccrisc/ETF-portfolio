@@ -14,7 +14,7 @@ Absolutely, it's crucial to recognize that any financial or investment advice pr
 
 When it comes to real investments, it's highly recommended to seek guidance from qualified financial professionals who can consider your individual financial situation, goals, and risk tolerance. Professionals, such as financial advisors, can provide personalized advice and help you navigate the complexities of the financial markets.
 
-Data is updated till March 2020
+Last update: March 2020
 
 ### Built With 
 * ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
