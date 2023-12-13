@@ -7,7 +7,12 @@
 </div>
 
 ## About The Project
-This is a shinyapp 
+This is a shinyapp to generate a sectorial ETF portfolio investment strategy. 
+The analysis uses sector ETFs, i.e. those classified according to global sector classification standards. Efficient portfolio is calculated using the Sharpe Ratio.
+
+Absolutely, it's crucial to recognize that any financial or investment advice provided in a simulation is purely hypothetical and should not be used as a basis for making real investment decisions. Simulations may use historical data or assumptions that do not accurately reflect current market conditions, and the outcomes are often influenced by the specific parameters set within the simulation.
+
+When it comes to real investments, it's highly recommended to seek guidance from qualified financial professionals who can consider your individual financial situation, goals, and risk tolerance. Professionals, such as financial advisors, can provide personalized advice and help you navigate the complexities of the financial markets.
 
 Data is updated till March 2020
 
@@ -25,6 +30,9 @@ Click on "Get Started!" button to go to portfolio creation page.
 
 In order to create the ETF Portfolio do so select from the first box every asset sector you want to invest in.
 Then, if you want, select from the second box a field you are interested in.
+![filters](https://github.com/ccrisc/ETF-portfolio/blob/main/www/filters.png)
+
+Once the loading is complete you will have an overview of the optimal ETF portfolio to invest in.
 
 
 ## Contributing
