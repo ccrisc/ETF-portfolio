@@ -1,4 +1,4 @@
-This repo is no longer updated since March 2020
+Stocks last update: March 2020 this may cause interface to not work properly if stocks are outdated
 
 <div align="center">
   <h1 align="center">ETFs portfolio simulation</h1>
