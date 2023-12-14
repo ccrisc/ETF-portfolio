@@ -1,4 +1,5 @@
 Stocks last update: March 2020 this may cause interface to not work properly if stocks are outdated
+<hr>
 
 <div align="center">
   <h1 align="center">ETFs portfolio simulation</h1>
