@@ -1,4 +1,7 @@
+This project is no longer mantained.
+<br>
 Stocks last update: March 2020 this may cause interface to not work properly if stocks are outdated
+
 <hr>
 
 <div align="center">
