@@ -1,7 +1,5 @@
-This project is no longer mantained.
+This project is no longer mantained. As of March 2020 many ETF stocks are outdated, which causes interface to not work properly.
 <br>
-Stocks last update: March 2020 this may cause interface to not work properly if stocks are outdated
-
 <hr>
 
 <div align="center">
